@@ -48,19 +48,3 @@ stocksSorted.forEach(stock => {
     chart.appendChild(subchart);
 });
     
-
-
-
-// function addStock () {
-//     const ticker = inputTicker.value;
-//     const company = inputCompany.value;
-//     if (company && ticker && !stocks.hasOwnProperty(ticker)) stocks[ticker] = company;
-//     window.location.reload();
-// }
-
-// function removeStock () {
-//     const ticker = inputTicker.value;
-//     const company = inputCompany.value;
-//     if (stocks.hasOwnProperty(ticker)) delete stocks[ticker];
-//     window.location.reload();
-// }
