@@ -27,7 +27,7 @@ const stocks = [
     'WINT',
 ]
 
-const stocksSorted = Object.keys(stocks).sort();
+const stocksSorted = stocks.sort();
 
 const pages = document.querySelector('.pages');
 const chart = document.querySelector('.chart');
