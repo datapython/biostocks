@@ -18,7 +18,7 @@ const stocks = [
     'LQDA',
     'MBRX',
     'MNOV',
-    'MBRX',
+    'NBRV',
     'NRBO',
     'OVID',
     'SPPI',
