@@ -25,7 +25,8 @@ const stocks = [
     'VXRT',
     'VYGR',
     'WINT',
-    'BLUE'
+    'BLUE',
+    'GHSI',
 ]
 
 const stocksSorted = stocks.sort();
