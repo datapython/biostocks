@@ -29,6 +29,7 @@ const stocks = [
     'BEAM',
     'OBSV',
     'MYOV',
+    'GNCA',
 ]
 
 const stocksSorted = stocks.sort();
