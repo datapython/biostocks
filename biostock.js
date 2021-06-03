@@ -32,7 +32,8 @@ const stocks = [
     'GNCA',
     'BNTC',
     "YVR",
-    
+    "PRVB",
+    "ETON",
 ]
 
 const stocksSorted = stocks.sort();
